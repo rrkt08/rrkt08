@@ -2,6 +2,8 @@
 
 <p align="center"> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/rrkt08?style=for-the-badge&logo=github&color=59A4C3">
+  <a href="mailto:tarek.itim08@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tarek-i-00ab33383/)"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-  badge&logo=Linkedin&logoColor=1E314F"/></a>
 </p>
 
 <p align="left">
@@ -31,11 +33,3 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)
-
----
-
-### 🤝 Let's Connect
-<p align="center">
-<a href="mailto:tarek.itim08@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tarek-i-00ab33383/)"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-badge&logo=Linkedin&logoColor=1E314F"/></a>
-</p>
