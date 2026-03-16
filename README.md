@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Tarek</h1>
+<h1 align="center">Salut 👋 Moi C'est Tarek</h1>
 
 <p align="center"> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/rrkt08?style=for-the-badge&logo=github&color=59A4C3">
