@@ -11,9 +11,9 @@
 </p>
 
 ### ⚡ About Me
-* 🧠 **Passionate about Mathematics & Computer Science:** I love exploring the logic behind the code and solving complex problems.
-* 🚀 **Projects:** I actively develop and deposit both **academic assignments** and **personal projects** here to track my journey and share my work.
-* 🌱 **Current Status:** I am currently honing my skills in a French engineering school.
+* 🧠 I am genuinely passionate about Mathematics and Computer Science and I love exploring the logic behind the code to solve complex problems.
+* 🚀 I actively develop and deposit both academic assignments and personal projects here to track my journey and share my work with others.
+* 🌱 I am currently honing my skills in a French engineering school to turn this passion into a career.
 
 ---
 
@@ -27,15 +27,17 @@
 
 <img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas" height="35"/>&nbsp;
-<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP" height="35"/>
+<img src="https://img.shields.io/badge/-Seaborn-05122A?style=for-the-badge&logo=python&logoColor=white" height="35"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5" height="35"/>&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3" height="35"/>&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" height="35"/>
+<img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3" height="35"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows" height="35"/>
