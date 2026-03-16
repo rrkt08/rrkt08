@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello World! I'm [Your Name]</h1>
+<h1 align="center">👋 Hello World! I'm Tarek</h1>
 
 <p align="center"> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/VOTRE_PSEUDO?style=for-the-badge&logo=github&color=59A4C3">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/rrkt08?style=for-the-badge&logo=github&color=59A4C3">
 </p>
 
 <p align="left">
@@ -34,8 +34,16 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrkt08&show_icons=true&layout=compact&title_color=59A4C3&icon_color=59A4C3&text_color=E0EAEB&bg_color=1E314F&hide_border=true" height=150px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rrkt08&show_icons=true&theme=tokyonight&title_color=59A4C3&icon_color=59A4C3&text_color=E0EAEB&bg_color=1E314F&hide_border=true" height=150px />
+</p>
+
+---
+
 ### 🤝 Let's Connect
 <p align="center">
 <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://votre-linkedin.com"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-badge&logo=Linkedin&logoColor=1E314F"/></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-badge&logo=Linkedin&logoColor=1E314F"/></a>
 </p>
