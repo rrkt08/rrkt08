@@ -10,12 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=59A4C3&size=22&pause=1000&width=435&lines=Computer+Science+Student;Solving+math+problems+&+breaking+code;Currently+surviving+engineering+school" alt="Typing SVG" />
 </p>
 
-### ⚡ About Me
-* 🧠 I am genuinely passionate about Mathematics and Computer Science and I love exploring the logic behind the code to solve complex problems.
-* 🚀 I actively develop and deposit both academic assignments and personal projects here to track my journey and share my work with others.
-* 🌱 I am currently honing my skills in a French engineering school to turn this passion into a career.
-
----
+* 🧠 I am really interested in Mathematics and Computer Science because I enjoy solving difficult problems with logic.
+* 💡 I actively develop and deposit both academic assignments and personal projects here to track my journey and share my work with others.
+* 📚 I am currently a student in a French engineering school where I am learning to become a professional engineer.
 
 ### 🛠️ Languages and Technologies  
 
@@ -24,19 +21,13 @@
 <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Shell-05122A?style=for-the-badge&logo=gnubash" height="35"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Seaborn-05122A?style=for-the-badge&logo=python&logoColor=white" height="35"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3" height="35"/>
-
-<br>
 
 <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" height="35"/>&nbsp;
