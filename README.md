@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/rrkt08?style=for-the-badge&logo=github&color=59A4C3">
-  <a href="mailto:tarek.itim08@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:tarek.itim08@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tarek-i-00ab33383/"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-badge&logo=Linkedin&logoColor=1E314F"/></a>
 </p>
 
@@ -21,6 +21,7 @@
 
 <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=white" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Shell-05122A?style=for-the-badge&logo=gnubash" height="35"/>
 
 <br>
