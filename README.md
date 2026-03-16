@@ -11,7 +11,9 @@
 </p>
 
 * 🧠 I am really interested in Mathematics and Computer Science because I enjoy solving difficult problems with logic.
+
 * 💡 I actively develop and deposit both academic assignments and personal projects here to track my journey and share my work with others.
+  
 * 📚 I am currently a student in a French engineering school where I am learning to become a professional engineer.
 
 ### 🛠️ Languages and Technologies  
