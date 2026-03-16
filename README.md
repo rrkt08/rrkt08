@@ -17,16 +17,19 @@
 
 ### 🛠️ Languages and Technologies  
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=for-the-badge&logo=gnubash)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql)
+
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)
 
 ---
