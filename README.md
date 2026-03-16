@@ -34,14 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrkt08&show_icons=true&layout=compact&title_color=59A4C3&icon_color=59A4C3&text_color=E0EAEB&bg_color=1E314F&hide_border=true" height=150px/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rrkt08&show_icons=true&theme=tokyonight&title_color=59A4C3&icon_color=59A4C3&text_color=E0EAEB&bg_color=1E314F&hide_border=true" height=150px />
-</p>
-
----
-
 ### 🤝 Let's Connect
 <p align="center">
 <a href="mailto:tarek.itim08@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
