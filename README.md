@@ -11,7 +11,7 @@
 ### ⚡ About Me
 * 🧠 **Passionate about Mathematics & Computer Science:** I love exploring the logic behind the code and solving complex problems.
 * 🚀 **Projects:** I actively develop and deposit both **academic assignments** and **personal projects** here to track my journey and share my work.
-* 🌱 **Current Status:** I am currently honing my skills as an engineering student in France.
+* 🌱 **Current Status:** I’m currently learning in a french engineering school.
 
 ---
 
@@ -44,6 +44,6 @@
 
 ### 🤝 Let's Connect
 <p align="center">
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-badge&logo=Linkedin&logoColor=1E314F"/></a>
+<a href="mailto:tarek.itim08@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tarek-i-00ab33383/)"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-badge&logo=Linkedin&logoColor=1E314F"/></a>
 </p>
