@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=59A4C3&size=22&pause=1000&width=435&lines=Math+%26+CS+Enthusiast;Future+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=59A4C3&size=22&pause=1000&width=435&lines=Computer+Science+Student;Solving+math+problems+&+breaking+code;Currently+surviving+engineering+school" alt="Typing SVG" />
 </p>
 
 ### ⚡ About Me
