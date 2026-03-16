@@ -3,7 +3,7 @@
 <p align="center"> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/rrkt08?style=for-the-badge&logo=github&color=59A4C3">
   <a href="mailto:tarek.itim08@gmail.com"><img src="https://img.shields.io/badge/-Mail-1E314F?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tarek-i-00ab33383/)"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-  badge&logo=Linkedin&logoColor=1E314F"/></a>
+  <a href="https://www.linkedin.com/in/tarek-i-00ab33383/"><img src="https://img.shields.io/badge/-Linkedin-59A4C3?style=for-the-badge&logo=Linkedin&logoColor=1E314F"/></a>
 </p>
 
 <p align="left">
@@ -13,23 +13,29 @@
 ### ⚡ About Me
 * 🧠 **Passionate about Mathematics & Computer Science:** I love exploring the logic behind the code and solving complex problems.
 * 🚀 **Projects:** I actively develop and deposit both **academic assignments** and **personal projects** here to track my journey and share my work.
-* 🌱 **Current Status:** I’m currently learning in a french engineering school.
+* 🌱 **Current Status:** I am currently honing my skills in a French engineering school.
 
 ---
 
 ### 🛠️ Languages and Technologies  
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=white)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-05122A?style=for-the-badge&logo=gnubash)
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=white" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Shell-05122A?style=for-the-badge&logo=gnubash" height="35"/>
 
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)
+<br>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP" height="35"/>
 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)
+<br>
+
+<img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" height="35"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows" height="35"/>
